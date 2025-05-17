@@ -1,1 +1,1 @@
-# Trie_un_he-tabula
+# Trie_un_heštabula
